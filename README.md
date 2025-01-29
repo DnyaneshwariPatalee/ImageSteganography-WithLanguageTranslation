@@ -54,10 +54,10 @@ This Android application implements **Image Steganography** to hide secret messa
 ![Login & Register](login&register.jpg)
 
 ### **2. Encode Message**
-![Encode Message](path/to/encode_message_screenshot.png)
+![ProcessList](processlist.jpg)
 
 ### **3. Decode Message**
-![Decode Message](path/to/decode_message_screenshot.png)
+![SharedList](path/to/decode_message_screenshot.png)
 
 
 ---
