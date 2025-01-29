@@ -52,17 +52,15 @@ This Android application implements **Image Steganography** to hide secret messa
 ## **Screenshots**
 ### **1. Home Screen**
 <img src="login&register.jpg" width="400" />
-![Login & Register](login&register.jpg)
 
 ### **2. Encode Message**
-![ProcessList](processlist.jpg)
+<img src="processlist.jpg" width="400" />
 
 ### **3. ShareList**
-![SharedList](sharedlist.jpg)
+<img src="sharedlist.jpg" width="400" />
 
 ### **4. Decode Message**
-![Stegano](stegano.jpg)
-
+<img src="stegano.jpg" width="400" />
 
 ---
 
