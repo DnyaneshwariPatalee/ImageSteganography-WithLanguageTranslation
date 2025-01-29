@@ -56,8 +56,11 @@ This Android application implements **Image Steganography** to hide secret messa
 ### **2. Encode Message**
 ![ProcessList](processlist.jpg)
 
-### **3. Decode Message**
-![SharedList](path/to/decode_message_screenshot.png)
+### **3. ShareList**
+![SharedList](sharedlist.jpg)
+
+### **4. Decode Message**
+![Stegano](stegano.jpg)
 
 
 ---
