@@ -51,7 +51,7 @@ This Android application implements **Image Steganography** to hide secret messa
 
 ## **Screenshots**
 ### **1. Home Screen**
-![Home Screen](path/to/home_screen_screenshot.png)
+![Login & Register](login&register.jpg)
 
 ### **2. Encode Message**
 ![Encode Message](path/to/encode_message_screenshot.png)
